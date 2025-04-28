@@ -23,7 +23,7 @@ public class CalculatorController {
 
     @GetMapping("/health")
     public String healthCheck() {
-        return "I'm alive!!argo cd!!";
+        return "I'm alive!!argo cd!!2222";
     }
 
 //    @GetMapping("/plus")
